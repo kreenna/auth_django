@@ -39,9 +39,9 @@ pip install -r requirements.txt
 
 2. Настройка PostgreSQL
 
-```
 settings.py - обновите параметры БД:
 
+```
 python
 DATABASES = {
     "default": {
